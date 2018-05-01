@@ -1,16 +1,18 @@
 1.Świat fantasy, magia , powinno być wyjasnone skąd bohaterka ma 
 niebieskie linie na swojej lewej dłoni , z której uzywa magii
-(zobacz opis postaci) może być lekko mrocznie, ale bez przesady 
+(zobacz opis postaci plik: mainCharacterDescription.txt) może być lekko mrocznie, ale bez przesady 
 ma starczyć na 1,5h gameplay, będą questy poboczne. 
 Podział na akty. Dopuszczalne inne rasy ale wszystkie mają być humoidalne jeśli się pojawią.
 Czas akcji dopuszcza się występowanie maszyn, ale w małej ilosći żeby dodawały jakiegoś kliamtu, 
-żeby historia nie była standardowym fantasy tylko czymś się wyróżniała.
+oraz historia nie była standardowym fantasy tylko czymś się wyróżniała.
 Dopuszczalne są śmierci postaci, ale główny bohater nie moze zginąć.
 Co do miejsca akcji to masz dowolność ,ale nie przesadzajmy
 z jakimiś nie wiadomo jakimi lokacjami, bo to wszystko trzeba przygotować.
-Może być co najwyżej jedne jakieś epickie  miejsce (np zamek itd..), bo chcemy to skończyć.
+Może być co najwyżej jedna  epicka  lokacja (np zamek itd..), bo chcemy to skończyć.
 Historia może zakończyć sie w sposób otwarty ale założenie jest takie 
 że , najważniejszy wątek ma zostać zakończony. Naprzykład głowny zły pokonany ale wszyscy źli nie muszą zginąć 
 (Jesli projekt wypali, zeby łatwo można było rozbudować itd.) dlatego nie tworzymy zamkniętego nie modyfikowalnego uniwersum.
+Historia będzie dużo ciekawsza jeśli nie będzie tych złych i tych dobrych tylko będą różne sposoby rozwiązania tego samego problemu,
+w ,którym antagonista ma inną wizję i protagonistka chce rozwiązać problem inaczej.
 
-
+KONIECZNIE ZOBACZ OPIS POSTACI!
