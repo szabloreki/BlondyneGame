@@ -1,0 +1,1 @@
+Platformówka z elementami rpg (kupowanie przedmiotów , dialogi, questy poboczne)
